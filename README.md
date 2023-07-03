@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AUBAI-ALKHABBAZ
 - 👀 I’m interested in AI , ML ,Deep learning and Robotics
-- 🌱 I’m currently learning Embedded C (AVR,STM32,RTOS) , Python , C++, ROS ,ABB
+- 🌱 I’m currently learning Embedded C (AVR,STM32,RTOS) , Python , C++, ROS ,ABB, PLC
 - 📫 How to reach me (facebook : Aubai khabbaz)
 
 <!---
