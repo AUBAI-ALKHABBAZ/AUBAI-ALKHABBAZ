@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AUBAI-ALKHABBAZ
 - 👀 I’m interested in AI , ML ,Deep learning and Robotics
-- 🌱 I’m currently learning Embedded C (AVR,STM32,RTOS) , Python , C++, ROS ,ABB, PLC
-- 📫 How to reach me (facebook : Aubai khabbaz)
+- 🌱 I’m currently learning Embedded C (AVR,STM32,RTOS) , Python , C++, PLC
+
 
 <!---
 AUBAI-ALKHABBAZ/AUBAI-ALKHABBAZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
