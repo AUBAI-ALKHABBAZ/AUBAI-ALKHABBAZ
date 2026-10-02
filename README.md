@@ -4,7 +4,7 @@
 * **The British University in Damascus (BUD)** | B.Sc. Mechatronics Engineering (2023)
 
 ![SVU](https://img.shields.io/badge/Syrian_Virtual_University-Academic-%23003366?style=for-the-badge&logo=education&logoColor=white)
-![Al-Rasheed](https://img.shields.io/badge/Al--Rasheed_University-Mechatronics-%231B365D?style=for-the-badge&logo=degree&logoColor=white)
+![BUD](https://img.shields.io/badge/British_University_in_Damascus-Mechatronics-%231B365D?style=for-the-badge&logo=degree&logoColor=white)
 
 <br>
 🔭 I’m currently working on Cyber-Physical Systems (CPS), Digital Twin architectures, and computer vision pipelines for real-time monitoring.<br><br>👯 I’m looking to collaborate on Open-source AI/ML tools, edge computing integration (ESP32/STM32), and interactive simulation projects in Unity/Godot.<br><br>🤝 I’m looking for help with Optimizing deep learning models for deployment on low-power edge hardware.<br><br>🌱 I’m currently learning Advanced Machine Learning algorithms and 3D spatial mapping/Wi-Fi CSI sensing.<br><br>💬 Ask me about Embedded systems (AVR/ESP32), Mechatronics, OpenCV, PLC programming, or physics simulations in Webots.<br><br>⚡ Fun fact I enjoy bridging the gap between physical mechanical hardware and intelligent software systems!
