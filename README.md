@@ -3,7 +3,7 @@
 * **Syrian Virtual University (SVU)** | B.Sc. Information Technology Engineering – Machine Learning 
 * **The British University in Damascus (BUD)** | B.Sc. Mechatronics Engineering (2023)
 
-![SVU](https://img.shields.io/badge/Syrian_Virtual_University-Academic-%23003366?style=for-the-badge&logo=education&logoColor=white)
+![SVU](https://img.shields.io/badge/Syrian_Virtual_University-ITE-%23003366?style=for-the-badge&logo=education&logoColor=white)
 ![BUD](https://img.shields.io/badge/British_University_in_Damascus-Mechatronics-%231B365D?style=for-the-badge&logo=degree&logoColor=white)
 
 <br>
