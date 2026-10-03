@@ -7,7 +7,7 @@
 ![BUD](https://img.shields.io/badge/British_University_in_Damascus-Mechatronics-%231B365D?style=for-the-badge&logo=degree&logoColor=white)
 
 <br>
-🔭 I’m currently working on Cyber-Physical Systems (CPS), Digital Twin architectures, and computer vision pipelines for real-time monitoring.<br><br>👯 I’m looking to collaborate on Open-source AI/ML tools, edge computing integration (ESP32/STM32), and interactive simulation projects in Unity/Godot.<br><br>🤝 I’m looking for help with Optimizing deep learning models for deployment on low-power edge hardware.<br><br>🌱 I’m currently learning Advanced Machine Learning algorithms and 3D spatial mapping/Wi-Fi CSI sensing.<br><br>💬 Ask me about Embedded systems (AVR/ESP32), Mechatronics, OpenCV, PLC programming, or physics simulations in Webots.<br><br>⚡ Fun fact I enjoy bridging the gap between physical mechanical hardware and intelligent software systems!
+🔭 I’m currently working on Cyber-Physical Systems (CPS).<br><br>👯 I’m looking to collaborate on Open-source AI/ML tools, edge computing integration (ESP32/STM32), and interactive simulation projects in Unity/Godot.<br><br>🤝 I’m looking for help with Optimizing deep learning models for deployment on low-power edge hardware.<br><br>🌱 I’m currently learning Advanced Machine Learning algorithms .<br><br>💬 Ask me about Embedded systems (AVR/ESP32), Mechatronics, OpenCV, PLC programming, or physics simulations in Webots.<br><br>⚡ Fun fact I enjoy bridging the gap between physical mechanical hardware and intelligent software systems!
 _____________________________________________________________________________________
 
 ![IMG-20210318-WA0017](https://user-images.githubusercontent.com/102236043/177554229-17c484c4-9da6-45bd-ae5d-ea6b65caa427.jpg)
